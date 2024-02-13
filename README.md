@@ -1,5 +1,5 @@
 # Legal_DD_File
-Uses Zuva API to conduct legal due diligence for a venture capital investment
+Uses Zuva API to conduct legal due diligence for a venture capital investment.
 
 You will need to create an account on [Zuva](https://zuva.ai/) to get started. 
 
